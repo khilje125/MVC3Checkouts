@@ -1,0 +1,18 @@
+F:\Projects\OnlineShoping\RepositoryDAL\bin\Debug\RepositoryDAL.dll
+F:\Projects\OnlineShoping\RepositoryDAL\bin\Debug\RepositoryDAL.pdb
+F:\Projects\OnlineShoping\RepositoryDAL\obj\Debug\RepositoryDAL.csprojResolveAssemblyReference.cache
+F:\Projects\OnlineShoping\RepositoryDAL\obj\Debug\RepositoryDAL.dll
+F:\Projects\OnlineShoping\RepositoryDAL\obj\Debug\RepositoryDAL.pdb
+F:\Projects\OnlineShoping\RepositoryDAL\bin\Debug\EntityFramework.dll
+F:\Projects\OnlineShoping\RepositoryDAL\bin\Debug\OSModel.dll
+F:\Projects\OnlineShoping\RepositoryDAL\bin\Debug\OSModel.pdb
+F:\Projects\OnlineShoping\RepositoryDAL\bin\Debug\EntityFramework.xml
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\RepositoryDAL\bin\Debug\RepositoryDAL.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\RepositoryDAL\bin\Debug\RepositoryDAL.pdb
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\RepositoryDAL\bin\Debug\EntityFramework.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\RepositoryDAL\bin\Debug\OSModel.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\RepositoryDAL\bin\Debug\OSModel.pdb
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\RepositoryDAL\bin\Debug\EntityFramework.xml
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\RepositoryDAL\obj\Debug\RepositoryDAL.csprojResolveAssemblyReference.cache
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\RepositoryDAL\obj\Debug\RepositoryDAL.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\RepositoryDAL\obj\Debug\RepositoryDAL.pdb

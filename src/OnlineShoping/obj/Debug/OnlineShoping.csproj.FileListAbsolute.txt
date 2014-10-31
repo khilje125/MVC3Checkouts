@@ -1,0 +1,114 @@
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\obj\Debug\OnlineShoping.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\OnlineShoping.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\OnlineShoping.pdb
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\Enitity.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\Newtonsoft.Json.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\Repository.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\Service.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\System.Net.Http.Formatting.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\System.Web.Helpers.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\System.Web.Http.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\System.Web.Http.WebHost.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\System.Web.Mvc.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\System.Web.Razor.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\System.Web.WebPages.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\System.Web.WebPages.Razor.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\Enitity.pdb
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\Repository.pdb
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\Service.pdb
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\Newtonsoft.Json.xml
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\System.Net.Http.Formatting.xml
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\System.Web.Helpers.xml
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\System.Web.Http.xml
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\System.Web.Http.WebHost.xml
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\System.Web.Mvc.xml
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\System.Web.Razor.xml
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\System.Web.WebPages.xml
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\bin\System.Web.WebPages.Razor.xml
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\obj\Debug\OnlineShoping.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\OnlineShoping\obj\Debug\OnlineShoping.pdb
+F:\Projects\OnlineShoping\OnlineShoping\bin\OnlineShoping.dll
+F:\Projects\OnlineShoping\OnlineShoping\bin\OnlineShoping.pdb
+F:\Projects\OnlineShoping\OnlineShoping\bin\Microsoft.Web.Infrastructure.dll
+F:\Projects\OnlineShoping\OnlineShoping\bin\Newtonsoft.Json.dll
+F:\Projects\OnlineShoping\OnlineShoping\bin\System.Net.Http.Formatting.dll
+F:\Projects\OnlineShoping\OnlineShoping\bin\System.Web.Helpers.dll
+F:\Projects\OnlineShoping\OnlineShoping\bin\System.Web.Http.dll
+F:\Projects\OnlineShoping\OnlineShoping\bin\System.Web.Http.WebHost.dll
+F:\Projects\OnlineShoping\OnlineShoping\bin\System.Web.Mvc.dll
+F:\Projects\OnlineShoping\OnlineShoping\bin\System.Web.Razor.dll
+F:\Projects\OnlineShoping\OnlineShoping\bin\System.Web.WebPages.Deployment.dll
+F:\Projects\OnlineShoping\OnlineShoping\bin\System.Web.WebPages.dll
+F:\Projects\OnlineShoping\OnlineShoping\bin\System.Web.WebPages.Razor.dll
+F:\Projects\OnlineShoping\OnlineShoping\bin\Newtonsoft.Json.xml
+F:\Projects\OnlineShoping\OnlineShoping\bin\System.Net.Http.Formatting.xml
+F:\Projects\OnlineShoping\OnlineShoping\bin\System.Web.Helpers.xml
+F:\Projects\OnlineShoping\OnlineShoping\bin\System.Web.Http.xml
+F:\Projects\OnlineShoping\OnlineShoping\bin\System.Web.Http.WebHost.xml
+F:\Projects\OnlineShoping\OnlineShoping\bin\System.Web.Mvc.xml
+F:\Projects\OnlineShoping\OnlineShoping\bin\System.Web.Razor.xml
+F:\Projects\OnlineShoping\OnlineShoping\bin\System.Web.WebPages.xml
+F:\Projects\OnlineShoping\OnlineShoping\bin\System.Web.WebPages.Deployment.xml
+F:\Projects\OnlineShoping\OnlineShoping\bin\System.Web.WebPages.Razor.xml
+F:\Projects\OnlineShoping\OnlineShoping\obj\Debug\OnlineShoping.csprojResolveAssemblyReference.cache
+F:\Projects\OnlineShoping\OnlineShoping\obj\Debug\OnlineShoping.dll
+F:\Projects\OnlineShoping\OnlineShoping\obj\Debug\OnlineShoping.pdb
+F:\Projects\OnlineShoping\OnlineShoping\bin\Antlr3.Runtime.dll
+F:\Projects\OnlineShoping\OnlineShoping\bin\System.Web.Optimization.dll
+F:\Projects\OnlineShoping\OnlineShoping\bin\WebGrease.dll
+F:\Projects\OnlineShoping\OnlineShoping\bin\Antlr3.Runtime.pdb
+F:\Projects\OnlineShoping\OnlineShoping\bin\System.Web.Optimization.xml
+F:\Projects\OnlineShoping\OnlineShoping\bin\EntityFramework.dll
+F:\Projects\OnlineShoping\OnlineShoping\bin\EntityFramework.SqlServer.dll
+F:\Projects\OnlineShoping\OnlineShoping\bin\EntityFramework.xml
+F:\Projects\OnlineShoping\OnlineShoping\bin\EntityFramework.SqlServer.xml
+F:\Projects\OnlineShoping\OnlineShoping\bin\OSModel.dll
+F:\Projects\OnlineShoping\OnlineShoping\bin\OSModel.pdb
+F:\Projects\OnlineShoping\OnlineShoping\bin\RepositoryDAL.dll
+F:\Projects\OnlineShoping\OnlineShoping\bin\RepositoryHelper.dll
+F:\Projects\OnlineShoping\OnlineShoping\bin\RepositoryDAL.pdb
+F:\Projects\OnlineShoping\OnlineShoping\bin\RepositoryHelper.pdb
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\OnlineShoping.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\OnlineShoping.pdb
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\Antlr3.Runtime.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\EntityFramework.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\EntityFramework.SqlServer.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\Newtonsoft.Json.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\OSModel.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\RepositoryDAL.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\RepositoryHelper.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\System.Net.Http.Formatting.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\System.Web.Helpers.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\System.Web.Http.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\System.Web.Http.WebHost.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\System.Web.Mvc.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\System.Web.Optimization.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\System.Web.Razor.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\System.Web.WebPages.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\WebGrease.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\OSModel.pdb
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\RepositoryDAL.pdb
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\RepositoryHelper.pdb
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\Antlr3.Runtime.pdb
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\EntityFramework.xml
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\EntityFramework.SqlServer.xml
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\Newtonsoft.Json.xml
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\System.Web.Optimization.xml
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\System.Net.Http.Formatting.xml
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\System.Web.Helpers.xml
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\System.Web.Http.xml
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\System.Web.Http.WebHost.xml
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\System.Web.Mvc.xml
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\System.Web.Razor.xml
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\System.Web.WebPages.xml
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\obj\Debug\OnlineShoping.csprojResolveAssemblyReference.cache
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\obj\Debug\OnlineShoping.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\OnlineShoping\obj\Debug\OnlineShoping.pdb

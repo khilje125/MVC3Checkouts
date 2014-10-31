@@ -1,0 +1,68 @@
+﻿@model OSModel.Models.User
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<section class="content">
+
+                   <section class="content invoice">
+                   
+                    <div class="row">
+                        <div class="col-xs-12 table-responsive">
+                           <div class="content invoice">
+        <div class="form-box" id="login-box">
+            <div class="header">Delete User</div>
+            
+                @using (Html.BeginForm("Delete", "Account", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+                {
+            <div class="body bg-gray">
+                <div class="form-group" style="background-color: white; padding: 5px">
+                    @Model.FirstName
+                        
+                </div>
+                <div class="form-group" style="background-color: white; padding: 5px">
+                    @Model.LastName
+                </div>
+                <div class="form-group" style="background-color: white; padding: 5px">
+                    @Model.LoginName
+                </div>
+                <div class="form-group" style="background-color: white; padding: 5px">
+                    @Model.Email
+                </div>
+                <div class="form-group" >
+                    <img src="~/Data/Image/@Model.image" height="300" />
+                </div>
+                <div class="form-group" style="background-color: white; padding: 5px">
+                    @Model.UserTypeId
+                </div>
+                <div class="form-group" style="background-color: white; padding: 5px">
+                    @Model.ContactNo
+                </div>
+                    
+                <div class="form-group" style="background-color: white; padding: 5px">
+                    @Model.Address
+                </div>
+                    
+
+            </div>
+                    <div class="footer">                    
+               
+                        <input type="submit" value="Delete" class="btn bg-olive btn-block" />
+                
+                    
+
+                    
+                    </div>
+                    }
+        </div>
+    </div>
+                        </div><!-- /.col -->
+                    </div><!-- /.row -->
+
+                   
+                    
+                </section>
+
+                </section>>

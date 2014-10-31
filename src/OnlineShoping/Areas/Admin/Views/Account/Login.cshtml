@@ -1,0 +1,47 @@
+﻿@using OSModel.Models
+@model LoginModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/themes/style.css" rel="stylesheet" />
+    <title>Login</title>
+</head>
+<body>
+    <div>
+        @using(Html.BeginForm("Login", "Account",FormMethod.Post, new{returnUrl = ViewBag.ReturnUrl }))
+        {
+                
+  <h1>Admin Log in</h1>
+  <div class="inset">
+  <p>
+    <label for="email">EMAIL ADDRESS</label>
+   @* <input type="text" name="email" id="email">*@
+      @Html.TextBoxFor(m => m.UserName, new {@id = "username", @type="text" })
+      @Html.ValidationMessage("UserName")
+  </p>
+  <p>
+    <label for="password">PASSWORD</label>
+    @*<input type="password" name="password" id="password">*@
+      @Html.TextBoxFor(m => m.Password, new {@id ="password", @type="password"  })
+      @Html.ValidationMessage("Password")
+  </p>
+  <p>
+    <input type="checkbox" name="remember" id="remember">
+    <label for="remember">Remember me </label>
+  </p>
+  </div>
+  <p class="p-container">
+    <span>Forgot password ?</span>
+    <input type="submit" name="go" id="go" value="Log in">
+  </p>
+        }
+        @Html.ValidationSummary(true)
+    </div>
+</body>
+</html>

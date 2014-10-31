@@ -1,0 +1,9 @@
+F:\Projects\OnlineShoping\RepositoryHelper\bin\Debug\RepositoryHelper.dll
+F:\Projects\OnlineShoping\RepositoryHelper\bin\Debug\RepositoryHelper.pdb
+F:\Projects\OnlineShoping\RepositoryHelper\obj\Debug\RepositoryHelper.dll
+F:\Projects\OnlineShoping\RepositoryHelper\obj\Debug\RepositoryHelper.pdb
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\RepositoryHelper\bin\Debug\RepositoryHelper.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\RepositoryHelper\bin\Debug\RepositoryHelper.pdb
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\RepositoryHelper\obj\Debug\RepositoryHelper.csprojResolveAssemblyReference.cache
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\RepositoryHelper\obj\Debug\RepositoryHelper.dll
+C:\Users\Kaleem Paracha\Downloads\OnlineShoping\OnlineShoping\RepositoryHelper\obj\Debug\RepositoryHelper.pdb

@@ -1,0 +1,26 @@
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\Service\bin\Debug\Service.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\Service\bin\Debug\Service.pdb
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\Service\bin\Debug\Enitity.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\Service\bin\Debug\EntityFramework.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\Service\bin\Debug\Repository.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\Service\bin\Debug\Enitity.pdb
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\Service\bin\Debug\Repository.pdb
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\Service\obj\Debug\Service.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\Service\obj\Debug\Service.pdb
+F:\Projects\OnlineShoping\Service\bin\Debug\Service.dll
+F:\Projects\OnlineShoping\Service\bin\Debug\Service.pdb
+F:\Projects\OnlineShoping\Service\bin\Debug\Antlr3.Runtime.dll
+F:\Projects\OnlineShoping\Service\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Projects\OnlineShoping\Service\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\OnlineShoping\Service\bin\Debug\Repository.dll
+F:\Projects\OnlineShoping\Service\bin\Debug\System.Web.Optimization.dll
+F:\Projects\OnlineShoping\Service\bin\Debug\WebGrease.dll
+F:\Projects\OnlineShoping\Service\bin\Debug\Repository.pdb
+F:\Projects\OnlineShoping\Service\bin\Debug\Antlr3.Runtime.pdb
+F:\Projects\OnlineShoping\Service\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\OnlineShoping\Service\bin\Debug\System.Web.Optimization.xml
+F:\Projects\OnlineShoping\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+F:\Projects\OnlineShoping\Service\obj\Debug\Service.dll
+F:\Projects\OnlineShoping\Service\obj\Debug\Service.pdb
+F:\Projects\OnlineShoping\Service\bin\Debug\EntityFramework.dll

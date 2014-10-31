@@ -1,0 +1,101 @@
+﻿@model OSModel.Models.User
+
+@*<div class="@(ViewBag.IsAjax ?"col-md-6" : "" )">*@
+
+    <div>
+
+    @*<section class="content-header" >
+        <h1>
+            Add New User
+            <small>Control panel</small>
+        </h1>
+        <ol class="breadcrumb">
+            <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
+            <li class="active">Register</li>
+        </ol>
+    </section>*@
+    <div class="content invoice">
+        <div class="form-box" id="login-box">
+            <div class="header">Add Edit User</div>
+            @using (Html.BeginForm("AddEdit", "Account", FormMethod.Post, new { @enctype="multipart/form-data" }))
+            {
+               
+                <div class="body bg-gray">
+                    <div class="form-group">
+                        @Html.HiddenFor(model => model.UserID)
+                        @Html.TextBoxFor(model => model.FirstName, new  {@class="form-control",@placeholder="FirstName"})
+                        @Html.ValidationMessageFor(model =>model.FirstName)
+                        @*<input type="text" name="name" class="form-control" placeholder="First name"/>*@
+                    </div>
+                    <div class="form-group">
+                        @Html.TextBoxFor(model => model.LastName, new  {@class="form-control",@placeholder="LastName"})
+                        @Html.ValidationMessageFor(model =>model.LastName)
+                        @*<input type="text" name="userid" class="form-control" placeholder="User ID"/>*@
+                    </div>
+                    <div class="form-group">
+                        @Html.DropDownListFor(model => model.UserTypeId,(SelectList)ViewBag.uTypeList, new{@class="form-control"})
+                        @Html.ValidationMessageFor(model =>model.UserTypeId)
+                        @*<input type="text" name="userid" class="form-control" placeholder="User ID"/>*@
+                    </div>
+                    <div class="form-group">
+                        @Html.TextBoxFor(model => model.LoginName, new  {@class="form-control",@placeholder="LoginName"})
+                        @Html.ValidationMessageFor(model =>model.LoginName)
+                        @*<input type="password" name="password" class="form-control" placeholder="Password"/>*@
+                    </div>
+                    <div class="form-group">
+                        @Html.TextBoxFor(model => model.Email, new  {@class="form-control",@placeholder="Email"})
+                        @Html.ValidationMessageFor(model =>model.Email)
+                        @*<input type="password" name="password" class="form-control" placeholder="Password"/>*@
+                    </div>
+                    <div class="form-group">
+                        @Html.TextBoxFor(model => model.Password, new  {@class="form-control",@placeholder="Password",@type="password"})
+                        @Html.ValidationMessageFor(model =>model.Password)
+                        @*<input type="password" name="password" class="form-control" placeholder="Password"/>*@
+                    </div>
+                    <div class="form-group">
+                        @Html.TextBoxFor(model => model.ContactNo, new  {@class="form-control",@placeholder="ContactNo"})
+                        @Html.ValidationMessageFor(model =>model.ContactNo)
+                        @*<input type="password" name="password" class="form-control" placeholder="Password"/>*@
+                    </div>
+                    <div class="form-group">
+                        @if (!string.IsNullOrWhiteSpace(@Model.image))
+                        {
+                            <img src="~/Data/Image/@Url.Content(@Model.image)" height="300" />
+                        }
+                        <input type="file" id="image" name="imageFile" />
+                        @* @Html.TextBoxFor(model => model.image, new  {@class="form-control",@placeholder="UserImage"})*@
+                        @*  @Html.ValidationMessageFor(model =>model.image)*@
+                        @*<input type="password" name="password" class="form-control" placeholder="Password"/>*@
+                    </div>
+                    <div class="form-group">
+                        @Html.TextBoxFor(model => model.Address, new  {@class="form-control",@placeholder="Addresss"})
+                        @Html.ValidationMessageFor(model =>model.Address)
+                        @*<input type="password" name="password" class="form-control" placeholder="Password"/>*@
+                    </div>
+
+                    @*<div class="form-group">
+                        <input type="password" name="password2" class="form-control" placeholder="Retype password"/>
+                    </div>*@
+                </div>
+                <div class="footer">                    
+
+                    <button type="submit" class="btn bg-olive btn-block">Sign me up</button>
+
+                    <a href="login.html" class="text-center">I already have a membership</a>
+                </div>
+          
+            }
+            
+
+            <div class="margin text-center">
+                <span>Register using social networks</span>
+                <br/>
+                <button class="btn bg-light-blue btn-circle"><i class="fa fa-facebook"></i></button>
+                <button class="btn bg-aqua btn-circle"><i class="fa fa-twitter"></i></button>
+                <button class="btn bg-red btn-circle"><i class="fa fa-google-plus"></i></button>
+
+            </div>
+        </div>
+    </div>
+</div>
+                

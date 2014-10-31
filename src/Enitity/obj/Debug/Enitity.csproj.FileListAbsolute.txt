@@ -1,0 +1,21 @@
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\Enitity\bin\Debug\Enitity.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\Enitity\bin\Debug\Enitity.pdb
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\Enitity\bin\Debug\EntityFramework.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\Enitity\obj\Debug\Enitity.dll
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\Enitity\obj\Debug\Enitity.pdb
+C:\Users\Muhammad Arslan\documents\visual studio 2012\Projects\OnlineShoping\Enitity\obj\Debug\Enitity.csprojResolveAssemblyReference.cache
+F:\Projects\OnlineShoping\Enitity\bin\Debug\Enitity.dll
+F:\Projects\OnlineShoping\Enitity\bin\Debug\Enitity.pdb
+F:\Projects\OnlineShoping\Enitity\bin\Debug\Antlr3.Runtime.dll
+F:\Projects\OnlineShoping\Enitity\bin\Debug\EntityFramework.dll
+F:\Projects\OnlineShoping\Enitity\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Projects\OnlineShoping\Enitity\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\OnlineShoping\Enitity\bin\Debug\System.Web.Optimization.dll
+F:\Projects\OnlineShoping\Enitity\bin\Debug\WebGrease.dll
+F:\Projects\OnlineShoping\Enitity\bin\Debug\Antlr3.Runtime.pdb
+F:\Projects\OnlineShoping\Enitity\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\OnlineShoping\Enitity\bin\Debug\System.Web.Optimization.xml
+F:\Projects\OnlineShoping\Enitity\obj\Debug\Enitity.csprojResolveAssemblyReference.cache
+F:\Projects\OnlineShoping\Enitity\obj\Debug\Enitity.dll
+F:\Projects\OnlineShoping\Enitity\obj\Debug\Enitity.pdb
+F:\Projects\OnlineShoping\Enitity\bin\Debug\EntityFramework.xml

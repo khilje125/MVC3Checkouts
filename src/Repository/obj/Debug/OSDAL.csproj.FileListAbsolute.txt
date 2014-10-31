@@ -1,0 +1,17 @@
+F:\Projects\OnlineShoping\Repository\bin\Debug\Repository.dll
+F:\Projects\OnlineShoping\Repository\bin\Debug\Repository.pdb
+F:\Projects\OnlineShoping\Repository\bin\Debug\Antlr3.Runtime.dll
+F:\Projects\OnlineShoping\Repository\bin\Debug\EntityFramework.dll
+F:\Projects\OnlineShoping\Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Projects\OnlineShoping\Repository\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\OnlineShoping\Repository\bin\Debug\System.Web.Optimization.dll
+F:\Projects\OnlineShoping\Repository\bin\Debug\WebGrease.dll
+F:\Projects\OnlineShoping\Repository\bin\Debug\Antlr3.Runtime.pdb
+F:\Projects\OnlineShoping\Repository\bin\Debug\EntityFramework.xml
+F:\Projects\OnlineShoping\Repository\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\OnlineShoping\Repository\bin\Debug\System.Web.Optimization.xml
+F:\Projects\OnlineShoping\Repository\obj\Debug\Repository.dll
+F:\Projects\OnlineShoping\Repository\obj\Debug\Repository.pdb
+F:\Projects\OnlineShoping\Repository\obj\Debug\OSDAL.csprojResolveAssemblyReference.cache
+F:\Projects\OnlineShoping\Repository\bin\Debug\OSModel.dll
+F:\Projects\OnlineShoping\Repository\bin\Debug\OSModel.pdb

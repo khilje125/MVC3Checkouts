@@ -1,0 +1,16 @@
+﻿@model OSModel.Models.User
+
+<tr @Model.UserID>
+    <td style="width:10%"><img src="~/Data/Image/@Url.Content(@Model.image)" width="50" height="50"/></td>
+    <td style="width:20%"> @Model.LoginName</td>
+    <td style="width:10%">@Html.Encode(Model.getutypename())</td>
+    <td style="width:20%">@Model.ContactNo</td>
+    <td style="width:20%">@Model.Email</td>
+    <td style="width:20%">
+        @Html.ActionLink("Edit ", "AddEdit","Account", new { id =Model.UserID}, new{ @class="fa-edit"})|
+        @Html.ActionLink("Detail ", "Detail","Account", new {id = Model.UserID},new{ @class="fa-view"})|
+        @Html.ActionLink("Delete","Delete","Account", new{id = Model.UserID},new{ @class="fa-Delete"})
+        
+    </td>
+</tr>
+
